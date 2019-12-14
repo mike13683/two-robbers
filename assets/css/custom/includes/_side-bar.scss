@@ -1,0 +1,13 @@
+//navbar
+.side-bar{
+  @include media-breakpoint-up(lg){
+    position: fixed;
+    width:100px;
+    height:100%;
+    background-color: #F2F2F2;
+  }
+}
+
+.navbar{
+  padding: 0.5rem 1.3rem;
+}
