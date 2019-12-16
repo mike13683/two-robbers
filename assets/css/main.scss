@@ -5,9 +5,7 @@
 @import 'bootstrap/bootstrap';
 @import 'custom/includes/side-bar';
 @import 'custom/includes/_social-btn';
-@import 'custom/includes/gallery';
 @import 'custom/includes/footer';
-@import 'custom/includes/hero';
 @import 'custom/helpers/global-classes';
 @import 'custom/helpers/mixins';
 @import 'custom/vendors/juice';
@@ -20,7 +18,9 @@
 
 //intro
 
-
+//.container-fluid {
+//  padding: 0px;
+//}
 //blog section
 
 

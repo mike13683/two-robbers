@@ -1,8 +1,19 @@
-//navbar
+//sidebar
+
+//spacing main wrapper for pages / sidebar
+@include media-breakpoint-up(lg){
+  .wrapper{
+    height:100%;
+    width: calc(100% - 5%);
+    position: relative;
+    left:5%;
+  }
+}
+
 .side-bar{
   @include media-breakpoint-up(lg){
     position: fixed;
-    width:100px;
+    width:5%;
     height:100%;
     background-color: #F2F2F2;
   }
