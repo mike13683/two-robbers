@@ -1,4 +1,23 @@
+@import 'custom/vendors/juice';
+
 //FOOTER
-.contact-footer{
-  background-color: #343A40;
+#main-footer{
+  a{
+    @extend .font-light;
+  }
+
+  .terms-conditions p{
+    font-size: rem-calc(20px);
+  }
+}
+
+//want to chat
+.chat{
+  position: relative;
+
+  p{
+    @extend .font-heavy;
+    font-size:rem-calc(70px) !important;
+    @include centerer;
+  }
 }

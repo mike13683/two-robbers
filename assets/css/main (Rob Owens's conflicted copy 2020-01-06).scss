@@ -46,9 +46,8 @@
   height: 100%;
 
   &__content{
+    @include centerer;
     position: relative;
-    top:50%;
-    transform:translateY(-50%);
     text-align: center;
 
     @include media-breakpoint-up(lg){
@@ -66,10 +65,7 @@
     @include media-breakpoint-up(lg){
       font-size: rem-calc(32px);
     }
-  }
 
-  &__media{
-    overflow-x:hidden;
   }
 }
 
@@ -80,7 +76,7 @@
   width:100%;
 
   &--background-image{
-    background: url("{{site.url}}/assets/img/blog.jpg") center center no-repeat;
+    background: url("https://picsum.photos/1920/800/?random=4") center center no-repeat;
     background-size:cover;
   }
 
@@ -155,7 +151,7 @@
   height: 500px;
 
   &--background-image{
-    background: url("{{site.url}}/assets/img/887-1920x500.jpg") center center no-repeat;
+    background: url("https://picsum.photos/1920/500/?random=4") center center no-repeat;
     background-size: cover;
   }
 
@@ -189,35 +185,7 @@
 }
 
 //vision line
-.alofire{
-  position: relative;
-  height: 100%;
 
-  &-top{
-    @include font-heavy;
-    position: absolute;
-    top:0;
-  }
-
-    &__content{
-      @include centerer;
-
-      p{
-        @include font-light;
-      }
-
-      h2{
-        @include font-heavy;
-        @include media-breakpoint-up(lg){
-          font-size: rem-calc(56px);
-        }
-      }
-    }
-
-    &-bg-colour{
-      background-color:$primary;
-    }
-}
 
 //contact email
 

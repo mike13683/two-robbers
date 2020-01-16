@@ -10,3 +10,15 @@
 //  z-index: 2;
 //  opacity: 0.9;
 //}
+
+@mixin font-heavy(){
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight:600;
+  font-size: rem-calc(40px);
+}
+
+@mixin font-light(){
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight:300;
+  font-size: rem-calc(40px);
+}
