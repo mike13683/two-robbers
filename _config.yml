@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dragonsigns.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mike13683.github.io/two-robbers/" # the base hostname & protocol for your site, e.g. http://example.com
 
 title: Dragon Signs - Signage | Graphics | Digital | Print - 029 2022 6501
 description: Shop Signs | Digital Signs | Vehicle Graphics | Business Signs | Window Graphics | Outdoor / Indoor Signs | Sports | Events. Cardiff, UK

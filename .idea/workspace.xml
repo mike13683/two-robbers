@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b69c717-623b-41db-a221-4a920c8fac0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/helpers/_global-classes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/helpers/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/helpers/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_gallery.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/custom/includes/_side-bar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom/includes/_side-bar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/source.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/source.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index (Rob Owens's conflicted copy 2020-01-06).html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,11 +58,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/css/custom/includes/_side-bar.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="408">
                   <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_config.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
                 </state>
               </provider>
             </entry>
@@ -115,6 +116,7 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/assets/js/source.js" />
         <option value="$PROJECT_DIR$/assets/css/custom/includes/_side-bar.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -143,43 +145,6 @@
             <path>
               <item name="two-robbers" type="b2602c69:ProjectViewProjectNode" />
               <item name="two-robbers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="two-robbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="two-robbers" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="two-robbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="two-robbers" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="two-robbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="two-robbers" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="two-robbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="two-robbers" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="two-robbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="two-robbers" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="custom" type="462c0819:PsiDirectoryNode" />
-              <item name="includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="two-robbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="two-robbers" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,12 +202,12 @@
       <workItem from="1578589028981" duration="3881000" />
       <workItem from="1578917945728" duration="7444000" />
       <workItem from="1579029156065" duration="8000000" />
-      <workItem from="1579193046870" duration="10413000" />
+      <workItem from="1579193046870" duration="10723000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79425000" />
+    <option name="totallyTimeSpent" value="79735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -417,6 +382,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
         </state>
       </provider>
     </entry>
