@@ -17,9 +17,7 @@ $(document).ready(function(){
             triggerElement:this,
             triggerHook:0.8
         })
-            .addIndicators({
-                name:"trigger up"
-            })
+
             .setTween(TweenMax.fromTo(this, 1, {autoAlpha:0, y:40}, {autoAlpha:1, y:0}))
             .addTo(controllerUpTween)
     })
@@ -34,9 +32,7 @@ $(document).ready(function(){
         triggerHook:0.7
     })
 
-        .addIndicators({
-            name:"stutter"
-        })
+
         .setTween(awaveawakeTween)
         .addTo(controller)
 
@@ -50,9 +46,7 @@ $(document).ready(function(){
         triggerHook:0.8
     })
 
-        .addIndicators({
-            name: "chat"
-        })
+
         .setTween(tweenChat)
         .addTo(controllerChat)
 
